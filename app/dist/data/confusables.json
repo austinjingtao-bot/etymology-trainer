@@ -1,0 +1,180 @@
+[
+ {
+  "ids": [
+   "ped@foot",
+   "ped@child"
+  ],
+  "note": "ped/pod=脚,足（拉丁 pes/pedis，如 pedal, pedestrian, expedite, impede）；ped(paed)=儿童,教育（古希腊 pais，如 pediatrics, pedagogy, encyclopedia）",
+  "source": {
+   "doc": "03",
+   "page": 60
+  }
+ },
+ {
+  "ids": [
+   "bi-",
+   "bio"
+  ],
+  "note": "bi-=数字“二，双”（拉丁前缀 bis，如 bicycle, bilingual, biped）；bio/bi=生命，生物（古希腊 bios，如 biology, biography, microbe）",
+  "source": {
+   "doc": "03",
+   "page": 60
+  }
+ },
+ {
+  "ids": [
+   "per-",
+   "pir"
+  ],
+  "note": "per-=穿过，自始至终；变坏（拉丁介词前缀，如 perennial, perspire, perfidy）；per/pir=尝试，冒险（印欧词根 *per-，如 experience, experiment, peril）",
+  "source": {
+   "doc": "03",
+   "page": 60
+  }
+ },
+ {
+  "ids": [
+   "sol@sun",
+   "sol@alone",
+   "sol@comfort"
+  ],
+  "note": "sol=太阳（拉丁 sol，如 solar, parasol, insolate）；sol=安慰（拉丁 solari，如 solace, console）；sol=单独（拉丁 solus，如 solo, solitary, isolate）",
+  "source": {
+   "doc": "03",
+   "page": 60
+  }
+ },
+ {
+  "ids": [
+   "cid",
+   "cad"
+  ],
+  "note": "cid/cis=切开，杀（拉丁 caedere，如 decide, concise, precise, suicide）；cad/cas/cid=落下，降临（拉丁 cadere，如 accident, incident, coincide, decay）",
+  "source": {
+   "doc": "03",
+   "page": 61
+  }
+ },
+ {
+  "ids": [
+   "cur@care",
+   "cur@run"
+  ],
+  "note": "cur=关心，照料，治疗（拉丁 cura，如 curious, secure, cure, accurate）；cur/curs/cour=跑，发生（拉丁 currere，如 current, occur, precursor, concur）",
+  "source": {
+   "doc": "03",
+   "page": 61
+  }
+ },
+ {
+  "ids": [
+   "pend@hang",
+   "pend@weigh"
+  ],
+  "note": "pend/pens=悬挂，依附（拉丁 pendere，如 depend, suspend, impending）；pend/pens/pond=称重量，花费，深思（拉丁 pensare，如 expend, expensive, compensate, pensive）",
+  "source": {
+   "doc": "03",
+   "page": 61
+  }
+ },
+ {
+  "ids": [
+   "in-",
+   "un-"
+  ],
+  "note": "in-/im-/il-/ir- 向内/进入（如 import, incite, infer, inspire） vs. 否定“不，无”（如 inanimate, illiterate, intact, infallible）",
+  "source": {
+   "doc": "03",
+   "page": 61
+  }
+ },
+ {
+  "ids": [
+   "fid",
+   "cred"
+  ],
+  "note": "fid=信念，忠诚，保密（拉丁 fides，重在情感忠贞，如 confident, fidelity, perfidy）；cred/creed=相信，信用，声誉（拉丁 credere，重在真伪与信贷，如 credit, credible, credulous）",
+  "source": {
+   "doc": "03",
+   "page": 61
+  }
+ },
+ {
+  "ids": [
+   "spect",
+   "vis"
+  ],
+  "note": "spect/spic=主动注视，审视，观察（如 inspect, prospect, retrospect, suspect）；vis/vid=视觉看见，显现（如 visual, supervise, revise, evident）",
+  "source": {
+   "doc": "03",
+   "page": 61
+  }
+ },
+ {
+  "ids": [
+   "scrib",
+   "graph"
+  ],
+  "note": "scrib/script=用笔书写，拟定文书（拉丁语源，如 describe, prescribe, subscribe, manuscript）；graph/gram=刻画，图表，记录仪（希腊语源，如 biography, photograph, diagram）",
+  "source": {
+   "doc": "03",
+   "page": 61
+  }
+ },
+ {
+  "ids": [
+   "flu",
+   "flor"
+  ],
+  "note": "flu/flux=液体或气体的流动（拉丁 fluere，如 fluid, fluent, affluent, superfluous）；flor/flour=花朵，开花，繁盛（拉丁 flos，如 floral, florid, flourish）",
+  "source": {
+   "doc": "03",
+   "page": 61
+  }
+ },
+ {
+  "ids": [
+   "vac",
+   "vad"
+  ],
+  "note": "vac/van/void=空，空虚（如 vacant, vacuum, evacuate, vanish）；vad/vas=迈步走，闯入（如 evade, invade, pervade）",
+  "source": {
+   "doc": "03",
+   "page": 62
+  }
+ },
+ {
+  "ids": [
+   "sid",
+   "stat"
+  ],
+  "note": "sid/sed/sess=坐，安顿，平息（如 reside, president, subside, assiduous）；st/stat/stit=站立，固定（如 static, stationary, obstacle, substitute）",
+  "source": {
+   "doc": "03",
+   "page": 62
+  }
+ },
+ {
+  "ids": [
+   "dict",
+   "voc",
+   "claim"
+  ],
+  "note": "dict/dic=说话，断言，命令（如 dictate, predict, contradict, verdict）；voc/vok=嗓音召唤（如 advocate, evoke, provoke）；claim/clam=大声呼喊（如 acclaim, exclaim, proclaim）",
+  "source": {
+   "doc": "03",
+   "page": 62
+  }
+ },
+ {
+  "ids": [
+   "-able",
+   "-ive"
+  ],
+  "note": "-ible/-able 表客观可…的、通情达理的（如 sensible 明智的, credible 可信的, respectable 可敬的）；-itive/-ulous 表主观敏感的、易…的（如 sensitive 敏感的, credulous 轻信的）",
+  "source": {
+   "doc": "03",
+   "page": 62
+  }
+ }
+]
